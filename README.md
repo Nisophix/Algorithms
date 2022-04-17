@@ -2,7 +2,7 @@
 This repository contains well known and widely used computer science algorithms.
 
 - [x] Binary Search
-- [ ] Linear Search
+- [x] Linear Search
 - [ ] Breadth First Search (BFS) Algorithm
 - [ ] Depth First Search (DFS) Algorithm
 - [ ] Inorder Tree Traversal 
