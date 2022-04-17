@@ -1,6 +1,5 @@
 <h3 align="center">Algorithms</h3>
-
-This repository contains well known and widely used computer science algorithms.
+<p align="center">This repository contains well known and widely used computer science algorithms.</p>
 
 - [x] Binary Search
 - [x] Linear Search
