@@ -1,4 +1,5 @@
-### Algorithms
+<h3 align="center">Algorithms</h3>
+
 This repository contains well known and widely used computer science algorithms.
 
 - [x] Binary Search
