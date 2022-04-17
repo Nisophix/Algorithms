@@ -7,7 +7,7 @@ import (
 func main(){
     //the array has to be sorted if it is not already
     arr := []int{0,3,22,133,242,344,545,666,667,775,876,984,1002,1003,2043}
-    result, ok := binarySearch(arr, 0, len(arr), 775)
+    result, ok := binarySearch(arr, 0, len(arr), 33)
     if ok != false {
         fmt.Println(result)
     }
@@ -25,6 +25,6 @@ func binarySearch(arr []int, from, to, x int) (int, bool) {
             to = mid - 1
         }
     }
-    return 0, false
+    return -1, false
 }
  
